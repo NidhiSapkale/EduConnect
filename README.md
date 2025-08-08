@@ -1,4 +1,3 @@
-# EduConnect
 EduConnect – Learning & Community Hub
 EduConnect is a student-focused platform to help manage studies, collaborate on projects, and connect with peers.
 
@@ -9,6 +8,7 @@ Daily study habit tracker
 AI chatbot for study-related questions
 Virtual meeting rooms
 Upload/access study materials (admin-reviewed)
+
 👥 Team Workflow
 Fork this repo
 Clone your fork locally
